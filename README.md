@@ -1,52 +1,11 @@
-# Gatsby Starter Portfolio Minimal
-#### A modern one-page portfolio with a clean yet expressive design.
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/16b36180-0897-40c5-925c-fefa0232555c/deploy-status)](https://app.netlify.com/sites/gatsby-starter-portfolio-minimal/deploys)
+# Portfolio Carla
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/ccb6634e-132e-4440-b7df-beb73ba585e9/deploy-status)](https://app.netlify.com/sites/carla-site-gatsby/deploys)
 
 Portfolio Minimal is a Gatsby Starter. Starters are boilerplate projects that can be used to set up new sites effortless. With this starter, you can create a modern one-page portfolio within minutes. 
 
 Just install the starter, add your content, and there you go!
 
-<a href="#sections">Sections</a> · <a href="#features">Features</a> · <a href="#how-to-start">How to Start</a> · <a href="#edit-content">Edit Content</a> · <a href="#edit-theme">Edit Theme</a> · <a href="#edit-page-structure">Edit Page Structure</a> · <a href="#feedback">Feedback</a>
-
-<a href="https://gatsby-starter-portfolio-minimal.netlify.app/" target="_blank"><strong>🧐 LIVE DEMO</strong></a>
-
----
-
-<img src="screenshot.png" alt="Gatsby Starter Portfolio Minimal Screenshot" width="600" />
-
----
-
-## Sections
-
-The starter has predefined sections as well as a template that you can use to create new, custom sections. 
-
-**The predefined sections are:**
-1. About me
-2. Interests/Skills
-3. Projects
-4. Contact me
-5. Medium articles
-
----
-
-## Features
-
-#### 🕹️ Quick and Easy Setup - Add content and deloy.
-Just install the starter, add your content, and deploy it! This starter works seamlessly with hosts like Netlify.
-
-#### 📓 Content Integration via MDX - No external CMS needed.
-MDX is a Markdown format that allows you to enrich your content with React components. This makes it fully customizable without external dependencies.
-
-#### 🧰 Extendable Layout - Add more sections as you like.
-The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to the project section without additional coding.
-
-#### 💅 Responsive Design - With freshening animations.
-The starter is designed with a mobile-first approach and looks perfect on small and large breakpoints. Moreover, it has some nice and smooth animations.
-
-#### <img src="http://logok.org/wp-content/uploads/2015/10/Medium-logo-old.png" alt="Medium Icon" width="20" /> Medium Integration - Features latest articles.
-In case you are a writer on Medium, the starter has a easy to use Medium integration that allows you to feature your latest articles.
-
-To see all features in action, have a look at the <a href="https://gatsby-starter-portfolio-minimal.netlify.app/" target="_blank"><strong>live demo</strong></a>.
+<a href="#how-to-start">How to Start</a> · <a href="#edit-content">Edit Content</a> · <a href="#edit-theme">Edit Theme</a> · <a href="#edit-page-structure">Edit Page Structure</a>
 
 ---
 
@@ -134,18 +93,6 @@ Each section (besides the Articles section) exists of an imported React componen
 ### Add custom sections
 
 If you want to add your own custom sections, there is a section template you can use. You can find it in the following directory: `src/components/templates`
-
----
-
-## Feedback
-
-Designing and building a portfolio from scratch can be tough. To inspire you and provide you a foundation to build upon, I've decided to publish [my personal website](https://konstantin.digital) as a Gatsby Starter. This boilerplate project should motivate you to build your own awesome portfolio with Gatsby.
-
-I always appreciate feedback, so share your thoughts and suggestions with me: [mail@konstantin.digital](mailto:mail@konstantin.digital)
-
-If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
-
-Thanks a lot for using this starter! 💪
 
 ---
 
